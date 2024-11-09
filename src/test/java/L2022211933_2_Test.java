@@ -18,7 +18,7 @@ public class L2022211933_2_Test {
         Solution solution = new Solution();
         String input1 = "bcabc";
         String input2 = "cbacdcbc";
-        assertEquals("abc", solution.removeDuplicateLetters(input1));
+        assertEquals("a", solution.removeDuplicateLetters(input1));
         assertEquals("acdb", solution.removeDuplicateLetters(input2));
     }
 
