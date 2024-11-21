@@ -34,4 +34,5 @@ public class L2022211933_2_Test {
         assertEquals("abcdef", solution.removeDuplicateLetters(input1));
         assertEquals("xyz", solution.removeDuplicateLetters(input2));
     }
+    //测试
 }
